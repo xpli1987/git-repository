@@ -164,7 +164,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.list_push_type-02">
+=======
+  <component name="RunManager" selected="Python.list_push_type">
+>>>>>>> master
     <configuration name="list_push_type-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,8 +276,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.list_push_type-02" />
         <item itemvalue="Python.list_push_type" />
+=======
+        <item itemvalue="Python.list_push_type" />
+        <item itemvalue="Python.list_push_type-02" />
+>>>>>>> master
         <item itemvalue="Python.replace_list_element" />
         <item itemvalue="Python.print_list_element-03" />
         <item itemvalue="Python.print_list_element-02" />
