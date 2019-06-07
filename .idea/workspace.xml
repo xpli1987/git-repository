@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6461fd5c-8bf0-4687-b48a-637c64400d4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/add_list_element_append.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/add_list_element_append.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/add_list_element_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/add_list_element_insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/list_push_type-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/list_push_type-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/list_push_type-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/list_push_type-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/print_list_element-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/print_list_element-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/print_list_element-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/print_list_element-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/print_list_element-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/print_list_element-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_10/replace_list_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_10_list/replace_list_element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_7&amp;8/student's_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_7&amp;8_branch/student's_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_7&amp;8/ternary_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_7&amp;8_branch/ternary_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_9/Verify_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_9_loop/Verify_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_9/number_of_daffodils.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_9_loop/number_of_daffodils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishC-homework/Lesson_9/three_color_ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/fishC-homework/Lesson_9_loop/three_color_ball.py" afterDir="false" />
-    </list>
+    <list default="true" id="6461fd5c-8bf0-4687-b48a-637c64400d4d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/code_line_count.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,55 +23,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/factorial.py">
+        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/decimal_to_binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="200">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/imitate_power.py">
+        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/get_digits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="350">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/max_common_divisor.py">
+        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/is_palintic_string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/fibonacci.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="163">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/hanoi.py">
+        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/how_old_are_you.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_10_list/list_push_type-02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="346">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -135,6 +102,10 @@
         <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/max_common_divisor.py" />
         <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/fibonacci.py" />
         <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/hanoi.py" />
+        <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/decimal_to_binary.py" />
+        <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/get_digits.py" />
+        <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/is_palintic_string.py" />
+        <option value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/how_old_are_you.py" />
       </list>
     </option>
   </component>
@@ -152,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -168,12 +140,6 @@
               <item name="learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\460002000439\PycharmProjects\learning" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="fishC-homework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Lesson_10_list" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\460002000439\PycharmProjects\learning" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="fishC-homework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Lesson_22_recursion" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -185,7 +151,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,8 +175,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hanoi">
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.how_old_are_you">
+    <configuration name="decimal_to_binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/decimal_to_binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/get_digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imitate_power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="how_old_are_you" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +251,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/imitate_power.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/how_old_are_you.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_common_divisor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="is_palintic_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,7 +272,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/max_common_divisor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/is_palintic_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.how_old_are_you" />
+        <item itemvalue="Python.is_palintic_string" />
+        <item itemvalue="Python.get_digits" />
+        <item itemvalue="Python.decimal_to_binary" />
         <item itemvalue="Python.hanoi" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.max_common_divisor" />
-        <item itemvalue="Python.imitate_power" />
-        <item itemvalue="Python.factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -343,12 +308,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24364723" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24364723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5856164" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44178084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -501,6 +466,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/imitate_power.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/max_common_divisor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_10_list/list_push_type-02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/hanoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/code_line_count.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -511,45 +518,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/factorial.py">
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/decimal_to_binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="200">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/imitate_power.py">
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/get_digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="350">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_10_list/list_push_type-02.py">
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/is_palintic_string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="163">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/max_common_divisor.py">
+    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/how_old_are_you.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishC-homework/Lesson_22_recursion/hanoi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="346">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
