@@ -33,14 +33,16 @@ def show_text(start,end,file_path='E:\\xpli\\123.txt'):
 def line_num(string):
     while True:
         str_list = string.split(':')
-        if str_list[0] == '':
-            start_line_num = 0
-        else:
-            start_line_num = int(str_list[0])
-        if str_list[1] == '':
-            end_line_num = -1
-        else:
-            end_line_num = int(str_list[1])
+        # if str_list[0] == '':
+        #     start_line_num = 0
+        # else:
+        #     start_line_num = int(str_list[0])
+        start_line_num = 1 if str_list[0] == '' else int(str_list[0]) #三元操作符优化代码
+        # if str_list[1] == '':
+        #     end_line_num = -1
+        # else:
+        #     end_line_num = int(str_list[1])
+        end_line_num = -1 if str_list[1] == '' else int(str_list[1])  #三元操作符优化代码
         if start_line_num <= end_line_num or end_line_num == -1:
             return start_line_num, end_line_num
         else:
@@ -49,11 +51,10 @@ def line_num(string):
 def main():
     file_path = input('请输入要打开的文件(默认为E:\\xpli\\123.txt)')
     user_input = input('请输入需要显示该文件前几行：')
+    start_line_num, end_line_num = line_num(user_input)
     if file_path == '':
-        start_line_num, end_line_num = line_num(user_input)
         show_text(start_line_num,end_line_num)
     else:
-        start_line_num, end_line_num = line_num(user_input)
         show_text(start_line_num,end_line_num,file_path)
 
 if __name__ == '__main__':
