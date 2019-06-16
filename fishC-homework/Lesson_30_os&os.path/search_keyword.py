@@ -16,7 +16,7 @@
 4、把关键字所在文件路径及位置元组保存到字典中
 '''
 
-import os
+import os,time
 
 def find_file(path):
     file_list = []
@@ -89,4 +89,6 @@ def main():
             print('关键字出现在第%d行，第'%each[0],each[1],'的位置')
 
 if __name__ == '__main__':
+    print(time.ctime())
     main()
+    print(time.ctime())
